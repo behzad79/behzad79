@@ -41,6 +41,32 @@ I've also developed custom solutions such as product Q&A systems and other busin
 * Persian — Native
 * English — Advanced
 
-### 🔗 Connect with me
+## 🚀 Featured Projects
 
-* [LinkedIn](https://www.linkedin.com/in/seyyed-behzad-mousaviyan-763181aa/)
+### 📌 DcaShop Product QA
+
+A custom WooCommerce product questions and answers plugin built for WordPress.
+
+- Custom admin management
+- Frontend Q&A display
+- AJAX-based interactions
+- WooCommerce product integration
+
+🔗 [View Repository](https://github.com/behzad79/dcashop-product-qa)
+
+
+### 📌 DcaShop Review Details
+
+A custom WooCommerce expert review and rating system.
+
+- Product expert ratings
+- Custom WooCommerce meta box
+- SVG rating visualization
+- Strengths and weaknesses display
+
+🔗 [View Repository](https://github.com/behzad79/dcashop-review-details)
+
+## 🌐 Connect with me
+
+- LinkedIn: [Seyyed Behzad Mousaviyan](https://www.linkedin.com/in/seyyed-behzad-mousaviyan-763181aa/)
+- Email: behzadmosaviyan79@gmail.com
