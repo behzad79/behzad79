@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Seyyed Behzad Mousaviyan 👋
 
-<!--
-**behzad79/behzad79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a WordPress & WooCommerce Developer with hands-on experience in developing, customizing, maintaining, and optimizing production websites.
 
-Here are some ideas to get you started:
+My main focus is building custom WordPress solutions, WooCommerce functionality, plugins, and features tailored to specific business requirements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+
+* **WordPress & WooCommerce**
+* **PHP**
+* **JavaScript**
+* **MySQL**
+* **HTML & CSS**
+* **Git**
+* **SEO**
+* **Front-end Development**
+* **UX/UI**
+* **Website Performance Optimization**
+
+### 💻 What I Do
+
+* Custom WordPress plugin development
+* WooCommerce customization and development
+* Development of custom product features and functionality
+* WordPress theme and template customization
+* Backend and frontend development
+* Website maintenance and technical support
+* SEO structure and technical optimization
+* Database management and optimization
+* Performance optimization
+* Development of business-specific solutions for production websites
+
+### 🚀 Experience
+
+I've worked on real-world WordPress and WooCommerce projects, including eCommerce websites, custom functionality, SEO optimization, website maintenance, and technical development.
+
+I've also developed custom solutions such as product Q&A systems and other business-specific WordPress/WooCommerce features.
+
+### 🌐 Languages
+
+* Persian — Native
+* English — Advanced
+
+### 🔗 Connect with me
+
+* [LinkedIn](https://www.linkedin.com/in/seyyed-behzad-mousaviyan-763181aa/)
